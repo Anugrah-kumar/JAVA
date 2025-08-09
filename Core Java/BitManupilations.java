@@ -2,7 +2,7 @@
 // This file contains examples of bit manipulation in Java.
 
 
-class BitManipulations {
+class BitManipulationsDemo {
     public static void main(String[] args) {
         // Example of bit manipulation in Java
         int a = 5; // 0101 in binary
