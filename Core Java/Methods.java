@@ -8,6 +8,7 @@ class Methods {
         // calling the method to add two numbers
         int sum = addNumbers(5, 10);
         System.out.println("The sum of 5 and 10 is: " + sum);   
+        
     
     }
 
